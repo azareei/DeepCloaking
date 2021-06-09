@@ -4,10 +4,11 @@ close all
 %%% calculation of wave field around a cylinder with a multi-layered carpet
 %%% carpet is designed to cloak the cylinder at k0=1.0
 %%% 
-%%%                                coded by Takahito Iida, Osaka University
-%%%                    in coorperation with Ahmad Zareei,Harvard University
-%%%                            under supervision of Reza Alam, UC. Berkeley
-%%%                                   final version is coded on 2021 June 9
+%%%                                coded by 
+%%%                                       Takahito Iida, Osaka University
+%%%                                       Ahmad Zareei,Harvard University
+%%%                                 supervised by Reza Alam, UC. Berkeley
+%%%                                 final version is coded on 2021 June 9
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %% data set%%%%%%%%%%%%%%%%%%%%%%%%%%%
